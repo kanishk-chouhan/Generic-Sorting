@@ -146,6 +146,6 @@ Print Result: Print the sorted array if successful.
 
 # Contact
 
-#### Email: kanishk.chouhan@example.com
+### Email: itskanishk36@gmail.com
 
-#### LinkedIn: Kanishk Chouhan
+### LinkedIn: https://www.linkedin.com/in/kanishk-chouhan/
